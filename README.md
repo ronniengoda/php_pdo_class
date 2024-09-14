@@ -10,11 +10,11 @@ This PHP Database class provides a simple and efficient way to interact with MyS
 
 ## Installation
 
-1. Download the `Database.php` file and include it in your project.
+1. Download the `db.php` file and include it in your project.
 2. Use the class in your PHP scripts by including it:
 
 ```php
-require_once 'path/to/Database.php';
+require_once 'path/to/db.php';
 ```
 
 ## Usage
